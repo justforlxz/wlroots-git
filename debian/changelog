@@ -1,3 +1,9 @@
+wlroots12 (0.17.0-1deepin2) unstable; urgency=medium
+
+  * This is unreleased version for develop
+
+ -- justforlxz <justforlxz@gmail.com>  Tue, 18 Jul 2023 11:20:20 +0800
+
 wlroots (0.17.0-1deepin1) unstable; urgency=medium
 
   * This is unreleased version for develop
